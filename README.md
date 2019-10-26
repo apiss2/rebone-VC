@@ -2,11 +2,11 @@
 ReBone用の音声変換プログラム
 
 # 環境
-tensorflow-gpu 1.8.0
-numpy 1.16.0
-librosa 0.6.0
-ffmpeg 1.4
-pyworld 0.2.8
+- tensorflow-gpu 1.8.0
+- numpy 1.16.0
+- librosa 0.6.0
+- ffmpeg 1.4
+- pyworld 0.2.8
 
 # TODO
 - フォルダ構成がわかりにくいのでもっとわかりやすくする（フォルダ構成変更による影響範囲の検証）
