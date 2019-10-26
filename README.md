@@ -1,6 +1,10 @@
 # rebone-VC
 ReBone用の音声変換プログラム
 
+# 使い方
+librosa で読み込んだwavファイル(ndarray)を入力するだけ。
+返り値が同様なwavファイル(ndarray)になっている。
+
 # 環境
 - tensorflow-gpu 1.8.0
 - numpy 1.16.0
